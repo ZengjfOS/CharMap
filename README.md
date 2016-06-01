@@ -9,13 +9,13 @@
 ## 程序运行效果
 
 * 初始软件界面:  
-![CharMap](image/charmap.png)
+![CharMap](image/charmap.gif)
 
 * 执行snw命令界面:  
-![CharMap](image/SNW.png)
+![CharMap](image/SNW.gif)
 
 * 执行rdw命令界面:  
-![CharMap](image/RDW.png)
+![CharMap](image/RDW.gif)
 
 ## 程序如何运行
 * make编译出程序
