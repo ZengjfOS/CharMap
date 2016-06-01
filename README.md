@@ -9,7 +9,7 @@
 ## 程序运行效果
 
 * 初始软件界面:  
-![CharMap](image/CharMap.png)
+![CharMap](image/charmap.png)
 
 * 执行snw命令界面:  
 ![CharMap](image/SNW.png)
